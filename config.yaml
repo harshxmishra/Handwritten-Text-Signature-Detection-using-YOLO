@@ -1,0 +1,8 @@
+path: C:/Users/ADITYA/Desktop/Handwritten Texts/Yolo_model
+train: images/train
+val: images/val
+
+
+names:
+  0: handwrittentext
+  1: sign
